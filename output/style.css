@@ -1,0 +1,20 @@
+body{
+    background-color: #919494a9;
+}
+.container-fluid .col-12 {
+    background-color: #d0d3d3;
+ 
+}
+.card {
+    background-color: #aeaeaf;
+    margin-left: 6px;
+    margin-top: 10px;
+}
+.card-header{
+    color: #fff;
+  
+}
+
+.fas {
+    color: #c1c3c4;
+}
