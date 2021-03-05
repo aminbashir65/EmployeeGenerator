@@ -6,3 +6,10 @@ This is a Node CLI that takes employees information and generates a HTML file. W
 ## User input
 The project must prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
 
+## Technologies
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Node.js
